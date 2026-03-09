@@ -1,3 +1,13 @@
+/**
+ * OOPSBannerApp
+ *
+ * UC8: Use Map for Character Patterns and Render via Function
+ 
+ *
+ * @author Prateek
+ * @version 7.0
+ */
+
 import java.util.HashMap;
 
 public class OOPSBannerApp {
@@ -65,7 +75,6 @@ public class OOPSBannerApp {
 
     // UC8 — Main Method
     public static void main(String[] args) {
-
         HashMap<Character, String[]> charMap = createCharacterMap();
         String message = "OOPS";
         displayBanner(message, charMap);
