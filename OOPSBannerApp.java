@@ -5,7 +5,7 @@
  *
  * Refactored version using String array and enhanced for-loop.
  *
- * @author Ankit
+ * @author Prateek
  * @version 4.0
  */
 
