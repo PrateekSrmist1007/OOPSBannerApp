@@ -5,7 +5,7 @@
  *
  * Refactored version of UC2 using String.join()
  *
- * @author Ankit
+ * @author Prateek
  * @version 3.0
  */
 
